@@ -9,3 +9,5 @@ The application is able to:
 * Add a Task
 * Edit a Task
 * Delete a Task
+
+*part of a course course (coursera.org/projects/python-flask)
