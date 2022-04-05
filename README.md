@@ -10,4 +10,3 @@ The application is able to:
 * Edit a Task
 * Delete a Task
 
-*part of a course course ['coursera.org/projects/python-flask']*
